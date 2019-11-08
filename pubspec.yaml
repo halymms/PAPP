@@ -72,6 +72,8 @@ flutter:
    - img/perdido3.jpg
    - img/semfoto.png
    - img/pet1.png
+   - img/papp1.png
+
 
 
   # An image asset can refer to one or more resolution-specific "variants", see

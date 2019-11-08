@@ -22,7 +22,7 @@ class _LoginPageState extends State<LoginPage> {
             Column(
               children: <Widget>[
                 SizedBox(height: 16.0),
-                Image.asset("img/pet1.png",height: 160.0, scale: 2.5, ),
+                Image.asset("img/papp1.png",height: 50.0, scale: 2.5, ),
                 SizedBox(height: 5,)
               ],
             ),
