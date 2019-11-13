@@ -22,11 +22,11 @@ class _LoginPageState extends State<LoginPage> {
             Column(
               children: <Widget>[
                 SizedBox(height: 16.0),
-                Image.asset("img/papp1.png",height: 50.0, scale: 2.5, ),
+                Image.asset("img/papp1.png",height: 200.0, width: 300,),
                 SizedBox(height: 5,)
               ],
             ),
-            SizedBox(height: 100.0),
+            SizedBox(height: 50.0),
 
             TextField(
               decoration: InputDecoration(
